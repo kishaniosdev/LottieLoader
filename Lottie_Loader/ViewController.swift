@@ -9,12 +9,14 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        LottieLoader.shared.showLoaderAnimation(parentView: self)
+        DispatchQueue.main.asyncAfter(deadline: .now() + 10.0) {
+            LottieLoader.shared.hideLoaderAnimation()
+        }
     }
-
-
 }
 
