@@ -5,3 +5,7 @@ How to use:
 
 
 Here's what it looks like:
+
+
+![Output sample](https://github.com/kishaniosdev/LottieLoader/blob/master/LottieLoader.gif)
+
