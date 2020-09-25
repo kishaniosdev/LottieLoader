@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -86,7 +86,6 @@
 				E8F50587FB2E1CEEAD79137D /* Pods-Lottie_Loader.debug.xcconfig */,
 				936FEA0BC00FAA7A85AAE10C /* Pods-Lottie_Loader.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -363,7 +362,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = T62DRJXC94;
+				DEVELOPMENT_TEAM = U3FXH8MRFQ;
 				INFOPLIST_FILE = Lottie_Loader/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -382,7 +381,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = T62DRJXC94;
+				DEVELOPMENT_TEAM = U3FXH8MRFQ;
 				INFOPLIST_FILE = Lottie_Loader/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
